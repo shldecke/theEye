@@ -1,0 +1,10 @@
+/* this css file will be used to style theEye project */
+
+body{
+    background-color: black;
+}
+.title{
+    font-size: x-large;
+    color:darkred;
+    text-align: center;
+}
